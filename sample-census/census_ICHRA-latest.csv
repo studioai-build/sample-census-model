@@ -1,0 +1,8 @@
+Employee Name,Hire Date,Election Type,Number of Dependents,Member Name,Sex,Date of Birth,Relationship to Employee,County of Residence,Tobacco Use,State,Age,Monthly Premium,ZipCode
+John Doe,12/10/2000,Health,3,,M,04/30/1975,Employee,Escambia,Yes,FL,30,958,64446
+Joe Canariato,12/10/2020,Health,0,Doe,F,01/10/1980,Spouse,Escambia,Yes,FL,34,958,64446
+Duane Nelson,09/10/2020,Health,0,Johnson,M,12/13/1995,Child,Will,No,IL,26,924,29620
+Sri Pang,09/10/2020,Dental,0,Miller,MI,08/17/1972,Child,Coconino,Yes,AZ,34,965,86544
+Peta Doe,12/10/2012,Health,1,,M,06/22/1973,Employee,Coconino,No,FL,31,950,29620
+Victor May,12/10/2012,Health,0,Doe,F,01/15/1985,Spouse,Coconino,Yes,FL,34,958,86544
+Robert Ram,12/10/2011,Health,0,,M,06/22/1973,Employee,Will,No,FL,32,950,86544

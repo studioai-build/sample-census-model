@@ -1,0 +1,17 @@
+FirstName,LastName,BirthDate,Age,Gender,ZipCode,SpouseGender,SpouseDob,SpouseAge,ChildCount,MedicalPlans,Tier,DentalPlans,VisionPlans
+Bob,Ode,2/1/1956,,M,,,,,,1,EE,No,No
+Jack,Johnson,9/14/1982,,M,,,,,,1,EE,No,No
+John,Smathers,9/15/1989,,M,,,,,,1,EE,No,No
+Billy,Sampre,2/1/1956,,M,,M,,57,1,1,EE,No,No
+Jane,Smith,9/7/1982,,F,,,,,,1,EE,No,No
+Michelle,Wayne,5/11/2001,,F,,,,,,1,EE,No,No
+Charlotte,Cava,11/4/1989,,F,,,,,,1,EE,No,No
+Nicole,Giroud,2/1/1969,,F,,,,,,1,EE,No,No
+Danny,Murphy,9/13/1993,,M,,,,,,1,EE,No,No
+Pau,Murphy,9/14/1982,,M,,F,,30,,1,EE,No,No
+Olive,Murphy,9/15/1989,,F,,,,,,1,EE,No,No
+Bob,Jones,2/1/1964,,M,,,,,,1,EE,No,No
+Jerry,Owens,3/2/1984,,M,,M,,23,1,1,EE,No,No
+Doug,Adams,10/1/1977,,M,,,,,,1,EE,No,No
+Mary,Williams,9/3/1785,,F,,,,,,1,EE,No,No
+Christime,Bushman,8/17/1987,,F,,,,,,1,EE,No,No

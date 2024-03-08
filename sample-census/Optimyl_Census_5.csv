@@ -1,0 +1,7 @@
+FirstName,LastName,BirthDate,Age,Gender,ZipCode,SpouseGender,SpouseDob,SpouseAge,ChildCount,MedicalPlans,DentalPlans,VisionPlans,HasChild,HasSpouse,HasFamily
+Bob,Ode,9/13/1972,49,Male,10000,Female,9/13/1999,22,1,Plan 1,No,Yes,TRUE,TRUE,TRUE
+John,Sample,9/14/1982,39,Female,10001,Female,1/2/2003,19,2,Plan 1,Yes,No,TRUE,TRUE,TRUE
+Billy,Sampre,2/1/1956,66,Male,20156,Female,2/11/1999,23,,Plan 1,Yes,Yes,FALSE,TRUE,FALSE
+Jane,Smith,3/25/1969,53,Male,10110,Female,,,,Plan 1,No,Yes,FALSE,FALSE,FALSE
+Michelle,Wayne,5/11/2001,21,Female,90264,Female,10/2/1992,29,,Plan 1,Yes,No,FALSE,TRUE,TRUE
+Charlotte,Sav,3/15/1988,34,Male,25178,Female,,,2,Plan 1,Yes,Yes,TRUE,FALSE,FALSE
